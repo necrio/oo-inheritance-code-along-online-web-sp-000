@@ -1,7 +1,7 @@
 require_relative "./vehicle.rb"
 
 
-class car < Vehicle
+class Car < Vehicle
 
 
 
